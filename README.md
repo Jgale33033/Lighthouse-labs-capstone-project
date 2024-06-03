@@ -1,1 +1,1 @@
-A final project for Lighthouse Labs' cybersecurity bootcamp. This included a professional email with security architecture recommendations, an incident report, and a 5-minute presentation.
+A final project for Lighthouse Labs' cybersecurity bootcamp. This included a professional email with security architecture recommendations, an incident report of a company that has had its customer data stolen and is being extorted, and a 5 minute presentation on tools used in the investigation
